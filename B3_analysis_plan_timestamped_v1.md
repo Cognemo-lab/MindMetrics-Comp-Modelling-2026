@@ -358,18 +358,13 @@ The design has good power to detect construct-level convergence of r_true ≈ .5
 
 
 
-## 8. Limitations stated in advance
+## 7. Limitations stated in advance
 
 - The total sample is fixed at N = 600. Attrition between sessions and task exclusions will reduce the analysable sample and, in turn, limit how tightly we can bound null results. 
 - Equivalence tests comparing B1 and B3 ICCs are limited by B1's sample size (§5).
 
 
 
-## 9. Open decisions and missing information
-
-1. **Final models** for Jungle, Space Explorer.
-2. **B3 design facts still open:** analysable-N point estimate, retention measures, task order, state questionnaires (needed for H6.2).
-13. **Time-stamp mechanism:** tagged release archived to Zenodo (DOI)?
 
 ---
 
